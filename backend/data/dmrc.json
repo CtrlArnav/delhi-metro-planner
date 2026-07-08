@@ -1,0 +1,1663 @@
+{
+  "Shaheed Sthal": {
+    "lines": {
+      "Red": { "prev": null, "next": "Hindon River" }
+    },
+    "interchange": []
+  },
+  "Hindon River": {
+    "lines": {
+      "Red": { "prev": "Shaheed Sthal", "next": "Arthala" }
+    },
+    "interchange": []
+  },
+  "Arthala": {
+    "lines": {
+      "Red": { "prev": "Hindon River", "next": "Mohan Nagar" }
+    },
+    "interchange": []
+  },
+  "Mohan Nagar": {
+    "lines": {
+      "Red": { "prev": "Arthala", "next": "Shyam Park" }
+    },
+    "interchange": []
+  },
+  "Shyam Park": {
+    "lines": {
+      "Red": {
+        "prev": "Mohan Nagar",
+        "next": "Major Mohit Sharma Rajendra Nagar"
+      }
+    },
+    "interchange": []
+  },
+  "Major Mohit Sharma Rajendra Nagar": {
+    "lines": {
+      "Red": { "prev": "Shyam Park", "next": "Raj Bagh" }
+    },
+    "interchange": []
+  },
+  "Raj Bagh": {
+    "lines": {
+      "Red": {
+        "prev": "Major Mohit Sharma Rajendra Nagar",
+        "next": "Shaheed Nagar"
+      }
+    },
+    "interchange": []
+  },
+  "Shaheed Nagar": {
+    "lines": {
+      "Red": { "prev": "Raj Bagh", "next": "Dilshad Garden" }
+    },
+    "interchange": []
+  },
+  "Dilshad Garden": {
+    "lines": {
+      "Red": { "prev": "Shaheed Nagar", "next": "Jhilmil" }
+    },
+    "interchange": []
+  },
+  "Jhilmil": {
+    "lines": {
+      "Red": { "prev": "Dilshad Garden", "next": "Mansarovar Park" }
+    },
+    "interchange": []
+  },
+  "Mansarovar Park": {
+    "lines": {
+      "Red": { "prev": "Jhilmil", "next": "Shahdara" }
+    },
+    "interchange": []
+  },
+  "Shahdara": {
+    "lines": {
+      "Red": { "prev": "Mansarovar Park", "next": "Welcome" }
+    },
+    "interchange": []
+  },
+  "Welcome": {
+    "lines": {
+      "Red": { "prev": "Shahdara", "next": "Seelampur" },
+      "Pink": { "prev": "East Azad Nagar", "next": "Jaffrabad" }
+    },
+    "interchange": ["Red", "Pink"]
+  },
+  "Seelampur": {
+    "lines": {
+      "Red": { "prev": "Welcome", "next": "Shastri Park" }
+    },
+    "interchange": []
+  },
+  "Shastri Park": {
+    "lines": {
+      "Red": { "prev": "Seelampur", "next": "Kashmere Gate" }
+    },
+    "interchange": []
+  },
+  "Kashmere Gate": {
+    "lines": {
+      "Red": { "prev": "Shastri Park", "next": "Tis Hazari" },
+      "Yellow": { "prev": "Civil Lines", "next": "Chandni Chowk" },
+      "Violet": { "prev": "Lal Qila", "next": "ITO" }
+    },
+    "interchange": ["Red", "Yellow", "Violet"]
+  },
+  "Tis Hazari": {
+    "lines": {
+      "Red": { "prev": "Kashmere Gate", "next": "Pul Bangash" }
+    },
+    "interchange": []
+  },
+  "Pul Bangash": {
+    "lines": {
+      "Red": { "prev": "Tis Hazari", "next": "Pratap Nagar" },
+      "Magenta": { "prev": "Sadar Bazar", "next": "Ghanta Ghar" }
+    },
+    "interchange": ["Red", "Magenta"]
+  },
+  "Pratap Nagar": {
+    "lines": {
+      "Red": { "prev": "Pul Bangash", "next": "Shastri Nagar" }
+    },
+    "interchange": []
+  },
+  "Shastri Nagar": {
+    "lines": {
+      "Red": { "prev": "Pratap Nagar", "next": "Inderlok" }
+    },
+    "interchange": []
+  },
+  "Inderlok": {
+    "lines": {
+      "Red": { "prev": "Shastri Nagar", "next": "Kanhaiya Nagar" },
+      "Green": { "prev": "Dilli Gate", "next": "Ashok Park Main" }
+    },
+    "interchange": ["Red", "Green"]
+  },
+  "Kanhaiya Nagar": {
+    "lines": {
+      "Red": { "prev": "Inderlok", "next": "Keshav Puram" }
+    },
+    "interchange": []
+  },
+  "Keshav Puram": {
+    "lines": {
+      "Red": { "prev": "Kanhaiya Nagar", "next": "Netaji Subhash Place" }
+    },
+    "interchange": []
+  },
+  "Netaji Subhash Place": {
+    "lines": {
+      "Red": { "prev": "Keshav Puram", "next": "Kohat Enclave" },
+      "Pink": { "prev": "Shalimar Bagh", "next": "Shakurpur" }
+    },
+    "interchange": ["Red", "Pink"]
+  },
+  "Kohat Enclave": {
+    "lines": {
+      "Red": { "prev": "Netaji Subhash Place", "next": "Pitampura" }
+    },
+    "interchange": []
+  },
+  "Pitampura": {
+    "lines": {
+      "Red": { "prev": "Kohat Enclave", "next": "Rohini East" },
+      "Magenta": { "prev": "Prashant Vihar", "next": "Deepali Chowk" }
+    },
+    "interchange": ["Red", "Magenta"]
+  },
+  "Rohini East": {
+    "lines": {
+      "Red": { "prev": "Pitampura", "next": "Rohini West" }
+    },
+    "interchange": []
+  },
+  "Rohini West": {
+    "lines": {
+      "Red": { "prev": "Rohini East", "next": "Rithala" }
+    },
+    "interchange": []
+  },
+  "Rithala": {
+    "lines": {
+      "Red": { "prev": "Rohini West", "next": null }
+    },
+    "interchange": []
+  },
+
+  "Samaypur Badli": {
+    "lines": {
+      "Yellow": { "prev": null, "next": "Rohini Sector 18, 19" }
+    },
+    "interchange": []
+  },
+  "Rohini Sector 18, 19": {
+    "lines": {
+      "Yellow": { "prev": "Samaypur Badli", "next": "Haiderpur Badli Mor" }
+    },
+    "interchange": []
+  },
+  "Haiderpur Badli Mor": {
+    "lines": {
+      "Yellow": { "prev": "Rohini Sector 18, 19", "next": "Jahangirpuri" }
+    },
+    "interchange": []
+  },
+  "Jahangirpuri": {
+    "lines": {
+      "Yellow": { "prev": "Haiderpur Badli Mor", "next": "Adarsh Nagar" }
+    },
+    "interchange": []
+  },
+  "Adarsh Nagar": {
+    "lines": {
+      "Yellow": { "prev": "Jahangirpuri", "next": "Azadpur" }
+    },
+    "interchange": []
+  },
+  "Azadpur": {
+    "lines": {
+      "Yellow": { "prev": "Adarsh Nagar", "next": "Model Town" },
+      "Magenta": { "prev": "Majlis Park", "next": "Shalimar Bagh" }
+    },
+    "interchange": ["Yellow", "Magenta"]
+  },
+  "Model Town": {
+    "lines": {
+      "Yellow": { "prev": "Azadpur", "next": "GTB Nagar" }
+    },
+    "interchange": []
+  },
+  "GTB Nagar": {
+    "lines": {
+      "Yellow": { "prev": "Model Town", "next": "Vishwavidyalaya" }
+    },
+    "interchange": []
+  },
+  "Vishwavidyalaya": {
+    "lines": {
+      "Yellow": { "prev": "GTB Nagar", "next": "Vidhan Sabha" }
+    },
+    "interchange": []
+  },
+  "Vidhan Sabha": {
+    "lines": {
+      "Yellow": { "prev": "Vishwavidyalaya", "next": "Civil Lines" }
+    },
+    "interchange": []
+  },
+  "Civil Lines": {
+    "lines": {
+      "Yellow": { "prev": "Vidhan Sabha", "next": "Kashmere Gate" }
+    },
+    "interchange": []
+  },
+  "Chandni Chowk": {
+    "lines": {
+      "Yellow": { "prev": "Kashmere Gate", "next": "Chawri Bazar" }
+    },
+    "interchange": []
+  },
+  "Chawri Bazar": {
+    "lines": {
+      "Yellow": { "prev": "Chandni Chowk", "next": "New Delhi" }
+    },
+    "interchange": []
+  },
+  "New Delhi": {
+    "lines": {
+      "Yellow": { "prev": "Chawri Bazar", "next": "Rajiv Chowk" },
+      "Airport Express": { "prev": null, "next": "Shivaji Stadium" }
+    },
+    "interchange": ["Yellow", "Airport Express"]
+  },
+  "Rajiv Chowk": {
+    "lines": {
+      "Yellow": { "prev": "New Delhi", "next": "Patel Chowk" },
+      "Blue": { "prev": "Barakhamba Road", "next": "Patel Chowk" }
+    },
+    "interchange": ["Yellow", "Blue"]
+  },
+  "Patel Chowk": {
+    "lines": {
+      "Yellow": { "prev": "Rajiv Chowk", "next": "Central Secretariat" }
+    },
+    "interchange": []
+  },
+  "Central Secretariat": {
+    "lines": {
+      "Yellow": { "prev": "Patel Chowk", "next": "Udyog Bhawan" },
+      "Violet": { "prev": "Janpath", "next": "Khan Market" }
+    },
+    "interchange": ["Yellow", "Violet"]
+  },
+  "Udyog Bhawan": {
+    "lines": {
+      "Yellow": { "prev": "Central Secretariat", "next": "Lok Kalyan Marg" }
+    },
+    "interchange": []
+  },
+  "Lok Kalyan Marg": {
+    "lines": {
+      "Yellow": { "prev": "Udyog Bhawan", "next": "Jor Bagh" }
+    },
+    "interchange": []
+  },
+  "Jor Bagh": {
+    "lines": {
+      "Yellow": { "prev": "Lok Kalyan Marg", "next": "Dilli Haat - INA" }
+    },
+    "interchange": []
+  },
+  "Dilli Haat - INA": {
+    "lines": {
+      "Yellow": { "prev": "Jor Bagh", "next": "AIIMS" }
+    },
+    "interchange": []
+  },
+  "AIIMS": {
+    "lines": {
+      "Yellow": { "prev": "Dilli Haat - INA", "next": "Green Park" }
+    },
+    "interchange": []
+  },
+  "Green Park": {
+    "lines": {
+      "Yellow": { "prev": "AIIMS", "next": "Hauz Khas" }
+    },
+    "interchange": []
+  },
+  "Hauz Khas": {
+    "lines": {
+      "Yellow": { "prev": "Green Park", "next": "Malviya Nagar" },
+      "Magenta": { "prev": "IIT Delhi", "next": "Panchsheel Park" }
+    },
+    "interchange": ["Yellow", "Magenta"]
+  },
+  "Malviya Nagar": {
+    "lines": {
+      "Yellow": { "prev": "Hauz Khas", "next": "Saket" }
+    },
+    "interchange": []
+  },
+  "Saket": {
+    "lines": {
+      "Yellow": { "prev": "Malviya Nagar", "next": "Qutab Minar" }
+    },
+    "interchange": []
+  },
+  "Qutab Minar": {
+    "lines": {
+      "Yellow": { "prev": "Saket", "next": "Chhatarpur" }
+    },
+    "interchange": []
+  },
+  "Chhatarpur": {
+    "lines": {
+      "Yellow": { "prev": "Qutab Minar", "next": "Sultanpur" }
+    },
+    "interchange": []
+  },
+  "Sultanpur": {
+    "lines": {
+      "Yellow": { "prev": "Chhatarpur", "next": "Ghitorni" }
+    },
+    "interchange": []
+  },
+  "Ghitorni": {
+    "lines": {
+      "Yellow": { "prev": "Sultanpur", "next": "Arjan Garh" }
+    },
+    "interchange": []
+  },
+  "Arjan Garh": {
+    "lines": {
+      "Yellow": { "prev": "Ghitorni", "next": "Guru Dronacharya" }
+    },
+    "interchange": []
+  },
+  "Guru Dronacharya": {
+    "lines": {
+      "Yellow": { "prev": "Arjan Garh", "next": "Sikanderpur" }
+    },
+    "interchange": []
+  },
+  "Sikanderpur": {
+    "lines": {
+      "Yellow": { "prev": "Guru Dronacharya", "next": "MG Road" }
+    },
+    "interchange": []
+  },
+  "MG Road": {
+    "lines": {
+      "Yellow": { "prev": "Sikanderpur", "next": "IFFCO Chowk" }
+    },
+    "interchange": []
+  },
+  "IFFCO Chowk": {
+    "lines": {
+      "Yellow": { "prev": "MG Road", "next": "Millennium City Centre Gurugram" }
+    },
+    "interchange": []
+  },
+  "Millennium City Centre Gurugram": {
+    "lines": {
+      "Yellow": { "prev": "IFFCO Chowk", "next": null }
+    },
+    "interchange": []
+  },
+
+  "Inderlok": {
+    "lines": {
+      "Green": { "prev": "Dilli Gate", "next": "Ashok Park Main" },
+      "Red": { "prev": "Shastri Nagar", "next": "Kanhaiya Nagar" }
+    },
+    "interchange": ["Green", "Red"]
+  },
+  "Ashok Park Main": {
+    "lines": {
+      "Green": { "prev": "Inderlok", "next": "Satguru Ram Singh Marg" },
+      "Green": { "prev": "Kirti Nagar", "next": "Inderlok" }
+    },
+    "interchange": []
+  },
+  "Satguru Ram Singh Marg": {
+    "lines": {
+      "Green": { "prev": "Ashok Park Main", "next": "Kirti Nagar" }
+    },
+    "interchange": []
+  },
+  "Kirti Nagar": {
+    "lines": {
+      "Green": { "prev": "Satguru Ram Singh Marg", "next": null },
+      "Blue": { "prev": "Shadipur", "next": "Moti Nagar" }
+    },
+    "interchange": ["Green", "Blue"]
+  },
+  "Punjabi Bagh East": {
+    "lines": {
+      "Green": { "prev": "Ashok Park Main", "next": "Punjabi Bagh West" }
+    },
+    "interchange": []
+  },
+  "Punjabi Bagh West": {
+    "lines": {
+      "Green": { "prev": "Punjabi Bagh East", "next": "Shivaji Park" },
+      "Pink": { "prev": "Shakurpur", "next": "ESI - Basaidarapur" }
+    },
+    "interchange": ["Green", "Pink"]
+  },
+  "Shivaji Park": {
+    "lines": {
+      "Green": { "prev": "Punjabi Bagh West", "next": "Madipur" },
+      "Airport Express": { "prev": "New Delhi", "next": "Dhaula Kuan" }
+    },
+    "interchange": ["Green", "Airport Express"]
+  },
+  "Madipur": {
+    "lines": {
+      "Green": { "prev": "Shivaji Park", "next": "Paschim Vihar East" }
+    },
+    "interchange": []
+  },
+  "Paschim Vihar East": {
+    "lines": {
+      "Green": { "prev": "Madipur", "next": "Paschim Vihar West" }
+    },
+    "interchange": []
+  },
+  "Paschim Vihar West": {
+    "lines": {
+      "Green": { "prev": "Paschim Vihar East", "next": "Peeragarhi" }
+    },
+    "interchange": []
+  },
+  "Peeragarhi": {
+    "lines": {
+      "Green": { "prev": "Paschim Vihar West", "next": "Udyog Nagar" },
+      "Magenta": { "prev": "Mangolpuri", "next": "Paschim Vihar" }
+    },
+    "interchange": ["Green", "Magenta"]
+  },
+  "Udyog Nagar": {
+    "lines": {
+      "Green": { "prev": "Peeragarhi", "next": "Maharaja Surajmal Stadium" }
+    },
+    "interchange": []
+  },
+  "Maharaja Surajmal Stadium": {
+    "lines": {
+      "Green": { "prev": "Udyog Nagar", "next": "Nangloi" }
+    },
+    "interchange": []
+  },
+  "Nangloi": {
+    "lines": {
+      "Green": {
+        "prev": "Maharaja Surajmal Stadium",
+        "next": "Nangloi Railway Station"
+      }
+    },
+    "interchange": []
+  },
+  "Nangloi Railway Station": {
+    "lines": {
+      "Green": { "prev": "Nangloi", "next": "Rajdhani Park" }
+    },
+    "interchange": []
+  },
+  "Rajdhani Park": {
+    "lines": {
+      "Green": { "prev": "Nangloi Railway Station", "next": "Mundka" }
+    },
+    "interchange": []
+  },
+  "Mundka": {
+    "lines": {
+      "Green": {
+        "prev": "Rajdhani Park",
+        "next": "Mundka Industrial Area (MIA)"
+      }
+    },
+    "interchange": []
+  },
+  "Mundka Industrial Area (MIA)": {
+    "lines": {
+      "Green": { "prev": "Mundka", "next": "Ghevra" }
+    },
+    "interchange": []
+  },
+  "Ghevra": {
+    "lines": {
+      "Green": { "prev": "Mundka Industrial Area (MIA)", "next": "Tikri Kalan" }
+    },
+    "interchange": []
+  },
+  "Tikri Kalan": {
+    "lines": {
+      "Green": { "prev": "Ghevra", "next": "Tikri Border" }
+    },
+    "interchange": []
+  },
+  "Tikri Border": {
+    "lines": {
+      "Green": { "prev": "Tikri Kalan", "next": "Pandit Shree Ram Sharma" }
+    },
+    "interchange": []
+  },
+  "Pandit Shree Ram Sharma": {
+    "lines": {
+      "Green": { "prev": "Tikri Border", "next": "Bahadurgarh City" }
+    },
+    "interchange": []
+  },
+  "Bahadurgarh City": {
+    "lines": {
+      "Green": {
+        "prev": "Pandit Shree Ram Sharma",
+        "next": "Brigadier Hoshiyar Singh"
+      }
+    },
+    "interchange": []
+  },
+  "Brigadier Hoshiyar Singh": {
+    "lines": {
+      "Green": { "prev": "Bahadurgarh City", "next": null }
+    },
+    "interchange": []
+  },
+
+  "Kashmere Gate": {
+    "lines": {
+      "Violet": { "prev": null, "next": "Lal Qila" },
+      "Yellow": { "prev": "Civil Lines", "next": "Chandni Chowk" },
+      "Red": { "prev": "Shastri Park", "next": "Tis Hazari" }
+    },
+    "interchange": ["Violet", "Yellow", "Red"]
+  },
+  "Lal Qila": {
+    "lines": {
+      "Violet": { "prev": "Kashmere Gate", "next": "Jama Masjid" }
+    },
+    "interchange": []
+  },
+  "Jama Masjid": {
+    "lines": {
+      "Violet": { "prev": "Lal Qila", "next": "Delhi Gate" }
+    },
+    "interchange": []
+  },
+  "Delhi Gate": {
+    "lines": {
+      "Violet": { "prev": "Jama Masjid", "next": "ITO" }
+    },
+    "interchange": []
+  },
+  "ITO": {
+    "lines": {
+      "Violet": { "prev": "Delhi Gate", "next": "Mandi House" }
+    },
+    "interchange": []
+  },
+  "Mandi House": {
+    "lines": {
+      "Violet": { "prev": "ITO", "next": "Janpath" },
+      "Blue": { "prev": "Supreme Court", "next": "Barakhamba Road" }
+    },
+    "interchange": ["Violet", "Blue"]
+  },
+  "Janpath": {
+    "lines": {
+      "Violet": { "prev": "Mandi House", "next": "Central Secretariat" }
+    },
+    "interchange": []
+  },
+  "Central Secretariat": {
+    "lines": {
+      "Violet": { "prev": "Janpath", "next": "Khan Market" },
+      "Yellow": { "prev": "Patel Chowk", "next": "Udyog Bhawan" }
+    },
+    "interchange": ["Violet", "Yellow"]
+  },
+  "Khan Market": {
+    "lines": {
+      "Violet": {
+        "prev": "Central Secretariat",
+        "next": "Jawaharlal Nehru Stadium"
+      }
+    },
+    "interchange": []
+  },
+  "Jawaharlal Nehru Stadium": {
+    "lines": {
+      "Violet": { "prev": "Khan Market", "next": "Jangpura" }
+    },
+    "interchange": []
+  },
+  "Jangpura": {
+    "lines": {
+      "Violet": { "prev": "Jawaharlal Nehru Stadium", "next": "Lajpat Nagar" }
+    },
+    "interchange": []
+  },
+  "Lajpat Nagar": {
+    "lines": {
+      "Violet": { "prev": "Jangpura", "next": "Moolchand" },
+      "Pink": { "prev": "South Extension", "next": "Vinobapuri" }
+    },
+    "interchange": ["Violet", "Pink"]
+  },
+  "Moolchand": {
+    "lines": {
+      "Violet": { "prev": "Lajpat Nagar", "next": "Kailash Colony" }
+    },
+    "interchange": []
+  },
+  "Kailash Colony": {
+    "lines": {
+      "Violet": { "prev": "Moolchand", "next": "Nehru Place" }
+    },
+    "interchange": []
+  },
+  "Nehru Place": {
+    "lines": {
+      "Violet": { "prev": "Kailash Colony", "next": "Kalkaji Mandir" }
+    },
+    "interchange": []
+  },
+  "Kalkaji Mandir": {
+    "lines": {
+      "Violet": { "prev": "Nehru Place", "next": "Govindpuri" },
+      "Magenta": { "prev": "Nehru Enclave", "next": "Okhla NSIC" }
+    },
+    "interchange": ["Violet", "Magenta"]
+  },
+  "Govindpuri": {
+    "lines": {
+      "Violet": { "prev": "Kalkaji Mandir", "next": "Harkesh Nagar Okhla" }
+    },
+    "interchange": []
+  },
+  "Harkesh Nagar Okhla": {
+    "lines": {
+      "Violet": { "prev": "Govindpuri", "next": "Jasola Apollo" }
+    },
+    "interchange": []
+  },
+  "Jasola Apollo": {
+    "lines": {
+      "Violet": { "prev": "Harkesh Nagar Okhla", "next": "Sarita Vihar" }
+    },
+    "interchange": []
+  },
+  "Sarita Vihar": {
+    "lines": {
+      "Violet": { "prev": "Jasola Apollo", "next": "Mohan Estate" }
+    },
+    "interchange": []
+  },
+  "Mohan Estate": {
+    "lines": {
+      "Violet": { "prev": "Sarita Vihar", "next": "Tughlakabad" }
+    },
+    "interchange": []
+  },
+  "Tughlakabad": {
+    "lines": {
+      "Violet": { "prev": "Mohan Estate", "next": "Badarpur Border" }
+    },
+    "interchange": []
+  },
+  "Badarpur Border": {
+    "lines": {
+      "Violet": { "prev": "Tughlakabad", "next": "Sarai" }
+    },
+    "interchange": []
+  },
+  "Sarai": {
+    "lines": {
+      "Violet": { "prev": "Badarpur Border", "next": "NHPC Chowk" }
+    },
+    "interchange": []
+  },
+  "NHPC Chowk": {
+    "lines": {
+      "Violet": { "prev": "Sarai", "next": "Mewla Maharajpur" }
+    },
+    "interchange": []
+  },
+  "Mewla Maharajpur": {
+    "lines": {
+      "Violet": { "prev": "NHPC Chowk", "next": "Sector 28" }
+    },
+    "interchange": []
+  },
+  "Sector 28": {
+    "lines": {
+      "Violet": { "prev": "Mewla Maharajpur", "next": "Badkhal Mor" }
+    },
+    "interchange": []
+  },
+  "Badkhal Mor": {
+    "lines": {
+      "Violet": { "prev": "Sector 28", "next": "Old Faridabad" }
+    },
+    "interchange": []
+  },
+  "Old Faridabad": {
+    "lines": {
+      "Violet": { "prev": "Badkhal Mor", "next": "Neelam Chowk Ajronda" }
+    },
+    "interchange": []
+  },
+  "Neelam Chowk Ajronda": {
+    "lines": {
+      "Violet": { "prev": "Old Faridabad", "next": "Bata Chowk" }
+    },
+    "interchange": []
+  },
+  "Bata Chowk": {
+    "lines": {
+      "Violet": { "prev": "Neelam Chowk Ajronda", "next": "Escorts Mujesar" }
+    },
+    "interchange": []
+  },
+  "Escorts Mujesar": {
+    "lines": {
+      "Violet": { "prev": "Bata Chowk", "next": "Sant Surdas - Sihi" }
+    },
+    "interchange": []
+  },
+  "Sant Surdas - Sihi": {
+    "lines": {
+      "Violet": { "prev": "Escorts Mujesar", "next": "Raja Nahar Singh" }
+    },
+    "interchange": []
+  },
+  "Raja Nahar Singh": {
+    "lines": {
+      "Violet": { "prev": "Sant Surdas - Sihi", "next": null }
+    },
+    "interchange": []
+  },
+
+  "Majlis Park": {
+    "lines": {
+      "Pink": { "prev": null, "next": "Azadpur" },
+      "Magenta": { "prev": "Bhalaswa", "next": "Azadpur" }
+    },
+    "interchange": ["Pink", "Magenta"]
+  },
+  "Azadpur": {
+    "lines": {
+      "Pink": { "prev": "Majlis Park", "next": "Shalimar Bagh" },
+      "Yellow": { "prev": "Adarsh Nagar", "next": "Model Town" },
+      "Magenta": { "prev": "Ashok Vihar", "next": "Majlis Park" }
+    },
+    "interchange": ["Pink", "Yellow", "Magenta"]
+  },
+  "Shalimar Bagh": {
+    "lines": {
+      "Pink": { "prev": "Azadpur", "next": "Netaji Subhash Place" }
+    },
+    "interchange": []
+  },
+  "Netaji Subhash Place": {
+    "lines": {
+      "Pink": { "prev": "Shalimar Bagh", "next": "Shakurpur" },
+      "Red": { "prev": "Keshav Puram", "next": "Kohat Enclave" }
+    },
+    "interchange": ["Pink", "Red"]
+  },
+  "Shakurpur": {
+    "lines": {
+      "Pink": { "prev": "Netaji Subhash Place", "next": "Punjabi Bagh West" }
+    },
+    "interchange": []
+  },
+  "Punjabi Bagh West": {
+    "lines": {
+      "Pink": { "prev": "Shakurpur", "next": "ESI - Basaidarapur" },
+      "Green": { "prev": "Punjabi Bagh East", "next": "Shivaji Park" }
+    },
+    "interchange": ["Pink", "Green"]
+  },
+  "ESI - Basaidarapur": {
+    "lines": {
+      "Pink": { "prev": "Punjabi Bagh West", "next": "Rajouri Garden" }
+    },
+    "interchange": []
+  },
+  "Rajouri Garden": {
+    "lines": {
+      "Pink": { "prev": "ESI - Basaidarapur", "next": "Mayapuri" },
+      "Blue": { "prev": "Ramesh Nagar", "next": "Tagore Garden" }
+    },
+    "interchange": ["Pink", "Blue"]
+  },
+  "Mayapuri": {
+    "lines": {
+      "Pink": { "prev": "Rajouri Garden", "next": "Naraina Vihar" }
+    },
+    "interchange": []
+  },
+  "Naraina Vihar": {
+    "lines": {
+      "Pink": { "prev": "Mayapuri", "next": "Delhi Cantonment" }
+    },
+    "interchange": []
+  },
+  "Delhi Cantonment": {
+    "lines": {
+      "Pink": {
+        "prev": "Naraina Vihar",
+        "next": "Durgabai Deshmukh South Campus"
+      }
+    },
+    "interchange": []
+  },
+  "Durgabai Deshmukh South Campus": {
+    "lines": {
+      "Pink": {
+        "prev": "Delhi Cantonment",
+        "next": "Sir M. Vishweshwaraiah Moti Bagh"
+      }
+    },
+    "interchange": []
+  },
+  "Sir M. Vishweshwaraiah Moti Bagh": {
+    "lines": {
+      "Pink": {
+        "prev": "Durgabai Deshmukh South Campus",
+        "next": "Bhikaji Cama Place"
+      }
+    },
+    "interchange": []
+  },
+  "Bhikaji Cama Place": {
+    "lines": {
+      "Pink": {
+        "prev": "Sir M. Vishweshwaraiah Moti Bagh",
+        "next": "Sarojini Nagar"
+      }
+    },
+    "interchange": []
+  },
+  "Sarojini Nagar": {
+    "lines": {
+      "Pink": { "prev": "Bhikaji Cama Place", "next": "Dilli Haat - INA" }
+    },
+    "interchange": []
+  },
+  "Dilli Haat - INA": {
+    "lines": {
+      "Pink": { "prev": "Sarojini Nagar", "next": "South Extension" },
+      "Yellow": { "prev": "Jor Bagh", "next": "AIIMS" }
+    },
+    "interchange": ["Pink", "Yellow"]
+  },
+  "South Extension": {
+    "lines": {
+      "Pink": { "prev": "Dilli Haat - INA", "next": "Lajpat Nagar" }
+    },
+    "interchange": []
+  },
+  "Lajpat Nagar": {
+    "lines": {
+      "Pink": { "prev": "South Extension", "next": "Vinobapuri" },
+      "Violet": { "prev": "Jangpura", "next": "Moolchand" }
+    },
+    "interchange": ["Pink", "Violet"]
+  },
+  "Vinobapuri": {
+    "lines": {
+      "Pink": { "prev": "Lajpat Nagar", "next": "Ashram" }
+    },
+    "interchange": []
+  },
+  "Ashram": {
+    "lines": {
+      "Pink": { "prev": "Vinobapuri", "next": "Sarai Kale Khan Nizamuddin" }
+    },
+    "interchange": []
+  },
+  "Sarai Kale Khan Nizamuddin": {
+    "lines": {
+      "Pink": { "prev": "Ashram", "next": "Mayur Vihar-I" }
+    },
+    "interchange": []
+  },
+  "Mayur Vihar-I": {
+    "lines": {
+      "Pink": {
+        "prev": "Sarai Kale Khan Nizamuddin",
+        "next": "Mayur Vihar Pocket I"
+      },
+      "Blue": { "prev": "Mayur Vihar Extension", "next": "Akshardham" }
+    },
+    "interchange": ["Pink", "Blue"]
+  },
+  "Mayur Vihar Pocket I": {
+    "lines": {
+      "Pink": { "prev": "Mayur Vihar-I", "next": "Trilokpuri Sanjay Lake" }
+    },
+    "interchange": []
+  },
+  "Trilokpuri Sanjay Lake": {
+    "lines": {
+      "Pink": {
+        "prev": "Mayur Vihar Pocket I",
+        "next": "East Vinod Nagar - Mayur Vihar-II"
+      }
+    },
+    "interchange": []
+  },
+  "East Vinod Nagar - Mayur Vihar-II": {
+    "lines": {
+      "Pink": {
+        "prev": "Trilokpuri Sanjay Lake",
+        "next": "Mandawali - West Vinod Nagar"
+      }
+    },
+    "interchange": []
+  },
+  "Mandawali - West Vinod Nagar": {
+    "lines": {
+      "Pink": {
+        "prev": "East Vinod Nagar - Mayur Vihar-II",
+        "next": "IP Extension"
+      }
+    },
+    "interchange": []
+  },
+  "IP Extension": {
+    "lines": {
+      "Pink": { "prev": "Mandawali - West Vinod Nagar", "next": "Anand Vihar" }
+    },
+    "interchange": []
+  },
+  "Anand Vihar": {
+    "lines": {
+      "Pink": { "prev": "IP Extension", "next": "Karkarduma" },
+      "Blue": { "prev": "Anand Vihar", "next": "Kaushambi" }
+    },
+    "interchange": ["Pink", "Blue"]
+  },
+  "Karkarduma": {
+    "lines": {
+      "Pink": { "prev": "Anand Vihar", "next": "Karkarduma Court" },
+      "Blue": { "prev": "Preet Vihar", "next": "Anand Vihar" }
+    },
+    "interchange": ["Pink", "Blue"]
+  },
+  "Karkarduma Court": {
+    "lines": {
+      "Pink": { "prev": "Karkarduma", "next": "Krishna Nagar" }
+    },
+    "interchange": []
+  },
+  "Krishna Nagar": {
+    "lines": {
+      "Pink": { "prev": "Karkarduma Court", "next": "East Azad Nagar" }
+    },
+    "interchange": []
+  },
+  "East Azad Nagar": {
+    "lines": {
+      "Pink": { "prev": "Krishna Nagar", "next": "Welcome" }
+    },
+    "interchange": []
+  },
+  "Welcome": {
+    "lines": {
+      "Pink": { "prev": "East Azad Nagar", "next": "Jaffrabad" }
+    },
+    "interchange": []
+  },
+  "Jaffrabad": {
+    "lines": {
+      "Pink": { "prev": "Welcome", "next": "Maujpur - Babarpur" }
+    },
+    "interchange": []
+  },
+  "Maujpur - Babarpur": {
+    "lines": {
+      "Pink": { "prev": "Jaffrabad", "next": "Gokulpuri" }
+    },
+    "interchange": []
+  },
+  "Gokulpuri": {
+    "lines": {
+      "Pink": { "prev": "Maujpur - Babarpur", "next": "Johri Enclave" }
+    },
+    "interchange": []
+  },
+  "Johri Enclave": {
+    "lines": {
+      "Pink": { "prev": "Gokulpuri", "next": "Shiv Vihar" }
+    },
+    "interchange": []
+  },
+  "Shiv Vihar": {
+    "lines": {
+      "Pink": { "prev": "Johri Enclave", "next": null }
+    },
+    "interchange": []
+  },
+
+  "Ramakrishna Ashram Marg": {
+    "lines": {
+      "Magenta": { "prev": null, "next": "Nabi Karim" }
+    },
+    "interchange": []
+  },
+  "Nabi Karim": {
+    "lines": {
+      "Magenta": { "prev": "Ramakrishna Ashram Marg", "next": "Sadar Bazar" }
+    },
+    "interchange": []
+  },
+  "Sadar Bazar": {
+    "lines": {
+      "Magenta": { "prev": "Nabi Karim", "next": "Pul Bangash" }
+    },
+    "interchange": []
+  },
+  "Pul Bangash": {
+    "lines": {
+      "Magenta": { "prev": "Sadar Bazar", "next": "Ghanta Ghar" },
+      "Red": { "prev": "Tis Hazari", "next": "Pratap Nagar" }
+    },
+    "interchange": ["Magenta", "Red"]
+  },
+  "Ghanta Ghar": {
+    "lines": {
+      "Magenta": { "prev": "Pul Bangash", "next": "Derawal Nagar" }
+    },
+    "interchange": []
+  },
+  "Derawal Nagar": {
+    "lines": {
+      "Magenta": { "prev": "Ghanta Ghar", "next": "Ashok Vihar" }
+    },
+    "interchange": []
+  },
+  "Ashok Vihar": {
+    "lines": {
+      "Magenta": { "prev": "Derawal Nagar", "next": "Azadpur" }
+    },
+    "interchange": []
+  },
+  "Bhalaswa": {
+    "lines": {
+      "Magenta": { "prev": "Majlis Park", "next": "Haiderpur Badli Mor" }
+    },
+    "interchange": []
+  },
+  "Haiderpur Badli Mor": {
+    "lines": {
+      "Magenta": { "prev": "Bhalaswa", "next": "North Pitampura" },
+      "Yellow": { "prev": "Rohini Sector 18, 19", "next": "Jahangirpuri" }
+    },
+    "interchange": ["Magenta", "Yellow"]
+  },
+  "North Pitampura": {
+    "lines": {
+      "Magenta": { "prev": "Haiderpur Badli Mor", "next": "Prashant Vihar" }
+    },
+    "interchange": []
+  },
+  "Prashant Vihar": {
+    "lines": {
+      "Magenta": { "prev": "North Pitampura", "next": "Pitampura" }
+    },
+    "interchange": []
+  },
+  "Pitampura": {
+    "lines": {
+      "Magenta": { "prev": "Prashant Vihar", "next": "Deepali Chowk" },
+      "Red": { "prev": "Kohat Enclave", "next": "Rohini East" }
+    },
+    "interchange": ["Magenta", "Red"]
+  },
+  "Deepali Chowk": {
+    "lines": {
+      "Magenta": { "prev": "Pitampura", "next": "Pushpanjali" }
+    },
+    "interchange": []
+  },
+  "Pushpanjali": {
+    "lines": {
+      "Magenta": { "prev": "Deepali Chowk", "next": "West Enclave" }
+    },
+    "interchange": []
+  },
+  "West Enclave": {
+    "lines": {
+      "Magenta": { "prev": "Pushpanjali", "next": "Mangolpuri" }
+    },
+    "interchange": []
+  },
+  "Mangolpuri": {
+    "lines": {
+      "Magenta": { "prev": "West Enclave", "next": "Peeragarhi" }
+    },
+    "interchange": []
+  },
+  "Peeragarhi": {
+    "lines": {
+      "Magenta": { "prev": "Mangolpuri", "next": "Paschim Vihar" },
+      "Green": { "prev": "Paschim Vihar West", "next": "Udyog Nagar" }
+    },
+    "interchange": ["Magenta", "Green"]
+  },
+  "Paschim Vihar": {
+    "lines": {
+      "Magenta": { "prev": "Peeragarhi", "next": "Keshopur" }
+    },
+    "interchange": []
+  },
+  "Keshopur": {
+    "lines": {
+      "Magenta": { "prev": "Paschim Vihar", "next": "Krishna Park Extension" }
+    },
+    "interchange": []
+  },
+  "Krishna Park Extension": {
+    "lines": {
+      "Magenta": { "prev": "Keshopur", "next": "Janakpuri West" }
+    },
+    "interchange": []
+  },
+  "Janakpuri West": {
+    "lines": {
+      "Magenta": {
+        "prev": "Krishna Park Extension",
+        "next": "Dabri Mor - Janakpuri South"
+      },
+      "Blue": { "prev": "Uttam Nagar East", "next": "Dabri Mor" }
+    },
+    "interchange": ["Magenta", "Blue"]
+  },
+  "Dabri Mor - Janakpuri South": {
+    "lines": {
+      "Magenta": { "prev": "Janakpuri West", "next": "Dashrath Puri" }
+    },
+    "interchange": []
+  },
+  "Dashrath Puri": {
+    "lines": {
+      "Magenta": { "prev": "Dabri Mor - Janakpuri South", "next": "Palam" }
+    },
+    "interchange": []
+  },
+  "Palam": {
+    "lines": {
+      "Magenta": { "prev": "Dashrath Puri", "next": "Sadar Bazaar Cantonment" }
+    },
+    "interchange": []
+  },
+  "Sadar Bazaar Cantonment": {
+    "lines": {
+      "Magenta": { "prev": "Palam", "next": "Terminal 1-IGI Airport" }
+    },
+    "interchange": []
+  },
+  "Terminal 1-IGI Airport": {
+    "lines": {
+      "Magenta": { "prev": "Sadar Bazaar Cantonment", "next": "Shankar Vihar" }
+    },
+    "interchange": []
+  },
+  "Shankar Vihar": {
+    "lines": {
+      "Magenta": { "prev": "Terminal 1-IGI Airport", "next": "Vasant Vihar" }
+    },
+    "interchange": []
+  },
+  "Vasant Vihar": {
+    "lines": {
+      "Magenta": { "prev": "Shankar Vihar", "next": "Munirka" }
+    },
+    "interchange": []
+  },
+  "Munirka": {
+    "lines": {
+      "Magenta": { "prev": "Vasant Vihar", "next": "R. K. Puram" }
+    },
+    "interchange": []
+  },
+  "R. K. Puram": {
+    "lines": {
+      "Magenta": { "prev": "Munirka", "next": "IIT Delhi" }
+    },
+    "interchange": []
+  },
+  "IIT Delhi": {
+    "lines": {
+      "Magenta": { "prev": "R. K. Puram", "next": "Hauz Khas" }
+    },
+    "interchange": []
+  },
+  "Panchsheel Park": {
+    "lines": {
+      "Magenta": { "prev": "Hauz Khas", "next": "Chirag Delhi" }
+    },
+    "interchange": []
+  },
+  "Chirag Delhi": {
+    "lines": {
+      "Magenta": { "prev": "Panchsheel Park", "next": "Greater Kailash" }
+    },
+    "interchange": []
+  },
+  "Greater Kailash": {
+    "lines": {
+      "Magenta": { "prev": "Chirag Delhi", "next": "Nehru Enclave" }
+    },
+    "interchange": []
+  },
+  "Nehru Enclave": {
+    "lines": {
+      "Magenta": { "prev": "Greater Kailash", "next": "Kalkaji Mandir" }
+    },
+    "interchange": []
+  },
+  "Kalkaji Mandir": {
+    "lines": {
+      "Magenta": { "prev": "Nehru Enclave", "next": "Okhla NSIC" },
+      "Violet": { "prev": "Nehru Place", "next": "Govindpuri" }
+    },
+    "interchange": ["Magenta", "Violet"]
+  },
+  "Okhla NSIC": {
+    "lines": {
+      "Magenta": { "prev": "Kalkaji Mandir", "next": "Sukhdev Vihar" }
+    },
+    "interchange": []
+  },
+  "Sukhdev Vihar": {
+    "lines": {
+      "Magenta": { "prev": "Okhla NSIC", "next": "Jamia Millia Islamia" }
+    },
+    "interchange": []
+  },
+  "Jamia Millia Islamia": {
+    "lines": {
+      "Magenta": { "prev": "Sukhdev Vihar", "next": "Okhla Vihar" }
+    },
+    "interchange": []
+  },
+  "Okhla Vihar": {
+    "lines": {
+      "Magenta": {
+        "prev": "Jamia Millia Islamia",
+        "next": "Jasola Vihar Shaheen Bagh"
+      }
+    },
+    "interchange": []
+  },
+  "Jasola Vihar Shaheen Bagh": {
+    "lines": {
+      "Magenta": { "prev": "Okhla Vihar", "next": "Kalindi Kunj" }
+    },
+    "interchange": []
+  },
+  "Kalindi Kunj": {
+    "lines": {
+      "Magenta": {
+        "prev": "Jasola Vihar Shaheen Bagh",
+        "next": "Okhla Bird Sanctuary"
+      }
+    },
+    "interchange": []
+  },
+  "Okhla Bird Sanctuary": {
+    "lines": {
+      "Magenta": { "prev": "Kalindi Kunj", "next": "Botanical Garden" }
+    },
+    "interchange": []
+  },
+  "Botanical Garden": {
+    "lines": {
+      "Magenta": { "prev": "Okhla Bird Sanctuary", "next": "Dwarka Sector 21" },
+      "Blue": { "prev": "Golf Course", "next": "Noida Sector 18" }
+    },
+    "interchange": ["Magenta", "Blue"]
+  },
+
+  "Dwarka": {
+    "lines": {
+      "Blue": { "prev": "Dwarka Mor", "next": "Dwarka Sector 14" },
+      "Grey": { "prev": null, "next": "Nangli" }
+    },
+    "interchange": ["Blue", "Grey"]
+  },
+  "Dwarka Mor": {
+    "lines": {
+      "Blue": { "prev": "Nawada", "next": "Dwarka" }
+    },
+    "interchange": []
+  },
+  "Nawada": {
+    "lines": {
+      "Blue": { "prev": "Uttam Nagar West", "next": "Dwarka Mor" }
+    },
+    "interchange": []
+  },
+  "Uttam Nagar West": {
+    "lines": {
+      "Blue": { "prev": "Uttam Nagar East", "next": "Nawada" }
+    },
+    "interchange": []
+  },
+  "Uttam Nagar East": {
+    "lines": {
+      "Blue": { "prev": "Janakpuri West", "next": "Uttam Nagar West" }
+    },
+    "interchange": []
+  },
+  "Janakpuri West": {
+    "lines": {
+      "Blue": { "prev": "Janakpuri East", "next": "Uttam Nagar East" },
+      "Magenta": {
+        "prev": "Krishna Park Extension",
+        "next": "Dabri Mor - Janakpuri South"
+      }
+    },
+    "interchange": ["Blue", "Magenta"]
+  },
+  "Janakpuri East": {
+    "lines": {
+      "Blue": { "prev": "Tilak Nagar", "next": "Janakpuri West" }
+    },
+    "interchange": []
+  },
+  "Tilak Nagar": {
+    "lines": {
+      "Blue": { "prev": "Subhash Nagar", "next": "Janakpuri East" }
+    },
+    "interchange": []
+  },
+  "Subhash Nagar": {
+    "lines": {
+      "Blue": { "prev": "Tagore Garden", "next": "Tilak Nagar" }
+    },
+    "interchange": []
+  },
+  "Tagore Garden": {
+    "lines": {
+      "Blue": { "prev": "Rajouri Garden", "next": "Subhash Nagar" }
+    },
+    "interchange": []
+  },
+  "Kirti Nagar": {
+    "lines": {
+      "Blue": { "prev": "Shadipur", "next": "Moti Nagar" },
+      "Green": { "prev": "Satguru Ram Singh Marg", "next": null }
+    },
+    "interchange": ["Blue", "Green"]
+  },
+  "Moti Nagar": {
+    "lines": {
+      "Blue": { "prev": "Kirti Nagar", "next": "Ramesh Nagar" }
+    },
+    "interchange": []
+  },
+  "Ramesh Nagar": {
+    "lines": {
+      "Blue": { "prev": "Moti Nagar", "next": "Rajouri Garden" }
+    },
+    "interchange": []
+  },
+  "Patel Nagar": {
+    "lines": {
+      "Blue": { "prev": "Rajendra Place", "next": "Shadipur" }
+    },
+    "interchange": []
+  },
+  "Rajendra Place": {
+    "lines": {
+      "Blue": { "prev": "Karol Bagh", "next": "Patel Nagar" }
+    },
+    "interchange": []
+  },
+  "Karol Bagh": {
+    "lines": {
+      "Blue": { "prev": "Jhandewalan", "next": "Rajendra Place" }
+    },
+    "interchange": []
+  },
+  "Jhandewalan": {
+    "lines": {
+      "Blue": { "prev": "Ramakrishna Ashram Marg", "next": "Karol Bagh" }
+    },
+    "interchange": []
+  },
+  "Ramakrishna Ashram Marg": {
+    "lines": {
+      "Blue": { "prev": "Rajiv Chowk", "next": "Jhandewalan" },
+      "Magenta": { "prev": null, "next": "Nabi Karim" }
+    },
+    "interchange": ["Blue", "Magenta"]
+  },
+  "Barakhamba Road": {
+    "lines": {
+      "Blue": { "prev": "Mandi House", "next": "Rajiv Chowk" }
+    },
+    "interchange": []
+  },
+  "Mandi House": {
+    "lines": {
+      "Blue": { "prev": "Supreme Court", "next": "Barakhamba Road" },
+      "Violet": { "prev": "ITO", "next": "Janpath" }
+    },
+    "interchange": ["Blue", "Violet"]
+  },
+  "Supreme Court": {
+    "lines": {
+      "Blue": { "prev": "Indraprastha", "next": "Mandi House" }
+    },
+    "interchange": []
+  },
+  "Indraprastha": {
+    "lines": {
+      "Blue": { "prev": "Yamuna Bank", "next": "Supreme Court" }
+    },
+    "interchange": []
+  },
+  "Yamuna Bank": {
+    "lines": {
+      "Blue": { "prev": "Akshardham", "next": "Indraprastha" },
+      "Blue": { "prev": "Mayur Vihar I", "next": "Laxmi Nagar" }
+    },
+    "interchange": []
+  },
+  "Mayur Vihar I": {
+    "lines": {
+      "Blue": { "prev": "Mayur Vihar Extension", "next": "Akshardham" },
+      "Pink": {
+        "prev": "Sarai Kale Khan Nizamuddin",
+        "next": "Mayur Vihar Pocket I"
+      }
+    },
+    "interchange": ["Blue", "Pink"]
+  },
+  "Mayur Vihar Extension": {
+    "lines": {
+      "Blue": { "prev": "New Ashok Nagar", "next": "Mayur Vihar I" }
+    },
+    "interchange": []
+  },
+  "New Ashok Nagar": {
+    "lines": {
+      "Blue": { "prev": "Noida Sector 15", "next": "Mayur Vihar Extension" }
+    },
+    "interchange": []
+  },
+  "Noida Sector 15": {
+    "lines": {
+      "Blue": { "prev": "Noida Sector 16", "next": "New Ashok Nagar" }
+    },
+    "interchange": []
+  },
+  "Noida Sector 16": {
+    "lines": {
+      "Blue": { "prev": "Noida Sector 18", "next": "Noida Sector 15" }
+    },
+    "interchange": []
+  },
+  "Noida Sector 18": {
+    "lines": {
+      "Blue": { "prev": "Noida Sector 34", "next": "Noida Sector 16" }
+    },
+    "interchange": []
+  },
+  "Noida Sector 34": {
+    "lines": {
+      "Blue": { "prev": "Noida City Centre", "next": "Noida Sector 18" }
+    },
+    "interchange": []
+  },
+  "Noida City Centre": {
+    "lines": {
+      "Blue": { "prev": "Golf Course", "next": "Noida Sector 34" }
+    },
+    "interchange": []
+  },
+  "Golf Course": {
+    "lines": {
+      "Blue": { "prev": "Botanical Garden", "next": "Noida City Centre" }
+    },
+    "interchange": []
+  },
+  "Botanical Garden": {
+    "lines": {
+      "Blue": { "prev": "Golf Course", "next": "Noida Sector 18" },
+      "Magenta": { "prev": "Okhla Bird Sanctuary", "next": null }
+    },
+    "interchange": ["Blue", "Magenta"]
+  },
+
+  "Dwarka Sector 14": {
+    "lines": {
+      "Blue": { "prev": "Dwarka", "next": "Dwarka Sector 13" }
+    },
+    "interchange": []
+  },
+  "Dwarka Sector 13": {
+    "lines": {
+      "Blue": { "prev": "Dwarka Sector 14", "next": "Dwarka Sector 12" }
+    },
+    "interchange": []
+  },
+  "Dwarka Sector 12": {
+    "lines": {
+      "Blue": { "prev": "Dwarka Sector 13", "next": "Dwarka Sector 11" }
+    },
+    "interchange": []
+  },
+  "Dwarka Sector 11": {
+    "lines": {
+      "Blue": { "prev": "Dwarka Sector 12", "next": "Dwarka Sector 10" }
+    },
+    "interchange": []
+  },
+  "Dwarka Sector 10": {
+    "lines": {
+      "Blue": { "prev": "Dwarka Sector 11", "next": "Dwarka Sector 9" }
+    },
+    "interchange": []
+  },
+  "Dwarka Sector 9": {
+    "lines": {
+      "Blue": { "prev": "Dwarka Sector 10", "next": "Dwarka Sector 8" }
+    },
+    "interchange": []
+  },
+  "Dwarka Sector 8": {
+    "lines": {
+      "Blue": { "prev": "Dwarka Sector 9", "next": "Dwarka Sector 21" }
+    },
+    "interchange": []
+  },
+  "Dwarka Sector 21": {
+    "lines": {
+      "Blue": { "prev": "Dwarka Sector 8", "next": null },
+      "Airport Express": {
+        "prev": "IGI Airport",
+        "next": "Yashobhoomi Dwarka Sector - 25"
+      }
+    },
+    "interchange": ["Blue", "Airport Express"]
+  },
+
+  "New Delhi": {
+    "lines": {
+      "Yellow": { "prev": "Chawri Bazar", "next": "Rajiv Chowk" },
+      "Airport Express": { "prev": null, "next": "Shivaji Stadium" }
+    },
+    "interchange": ["Yellow", "Airport Express"]
+  },
+  "Shivaji Stadium": {
+    "lines": {
+      "Airport Express": { "prev": "New Delhi", "next": "Dhaula Kuan" }
+    },
+    "interchange": []
+  },
+  "Dhaula Kuan": {
+    "lines": {
+      "Airport Express": { "prev": "Shivaji Stadium", "next": "Delhi Aerocity" }
+    },
+    "interchange": []
+  },
+  "Delhi Aerocity": {
+    "lines": {
+      "Airport Express": { "prev": "Dhaula Kuan", "next": "IGI Airport" }
+    },
+    "interchange": []
+  },
+  "IGI Airport": {
+    "lines": {
+      "Airport Express": {
+        "prev": "Delhi Aerocity",
+        "next": "Dwarka Sector 21"
+      }
+    },
+    "interchange": []
+  },
+  "Yashobhoomi Dwarka Sector - 25": {
+    "lines": {
+      "Airport Express": { "prev": "Dwarka Sector 21", "next": null }
+    },
+    "interchange": []
+  },
+
+  "Dwarka": {
+    "lines": {
+      "Grey": { "prev": null, "next": "Nangli" },
+      "Blue": { "prev": "Dwarka Mor", "next": "Dwarka Sector 14" }
+    },
+    "interchange": ["Grey", "Blue"]
+  },
+  "Nangli": {
+    "lines": {
+      "Grey": { "prev": "Dwarka", "next": "Najafgarh" }
+    },
+    "interchange": []
+  },
+  "Najafgarh": {
+    "lines": {
+      "Grey": { "prev": "Nangli", "next": "Dhansa Bus Stand" }
+    },
+    "interchange": []
+  },
+  "Dhansa Bus Stand": {
+    "lines": {
+      "Grey": { "prev": "Najafgarh", "next": null }
+    },
+    "interchange": []
+  }
+}
